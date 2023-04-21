@@ -2,11 +2,11 @@
   "name": "aka-lamer/laravel-prometheus-exporter",
   "replace": {
     "arquivei/laravel-prometheus-exporter":"*" 
-  }
+  },
   "repositories": [
     {
       "type": "path",
-      "url": "../arquivei",
+      "url": "/arquivei/",
       "options": {
         "symlink": true
       }
