@@ -6,5 +6,5 @@
         "Arquivei\\LaravelPrometheusExporter\\": "src/",
         "Arquivei\\LaravelPrometheusExporter\\Tests\\": "tests/"
      }
-  },
+  }
 }
