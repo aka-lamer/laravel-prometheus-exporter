@@ -3,10 +3,9 @@
   "replace": {
     "arquivei/laravel-prometheus-exporter":"*" 
   },
-  "repositories": [
-    {
-      "type": "path",
-      "url": "/arquivei/"
-    }
-  ]
+  "extra": {
+     "installer-paths": {
+        "arquivei/": ["vendor/test"],
+      }
+  }
 }
