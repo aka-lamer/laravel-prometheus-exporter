@@ -1,4 +1,4 @@
 {
-  "name": "aka-lamer/laravel-prometheus-exporter",
+  "name": "arquivei/laravel-prometheus-exporter",
   "replace": {     "arquivei/laravel-prometheus-exporter":"*" }
 }
