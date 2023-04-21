@@ -1,4 +1,10 @@
 {
-  "name": "arquivei/laravel-prometheus-exporter",
-  "replace": {     "arquivei/laravel-prometheus-exporter":"*" }
+  "name": "aka-lamer/laravel-prometheus-exporter",
+  "replace": {     "arquivei/laravel-prometheus-exporter":"*" },
+  "autoload": {
+     "psr-4": {
+        "Arquivei\\LaravelPrometheusExporter\\": "src/",
+        "Arquivei\\LaravelPrometheusExporter\\Tests\\": "tests/"
+     }
+  },
 }
