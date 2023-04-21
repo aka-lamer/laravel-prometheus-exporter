@@ -7,9 +7,6 @@
     {
       "type": "path",
       "url": "/arquivei/",
-      "options": {
-        "symlink": true
-      }
     }
   ]
 }
